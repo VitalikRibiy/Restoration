@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\Restoration\Restoration\bin\Debug\Restoration.exe.config
+C:\Users\Vitalik\source\repos\Restoration\Restoration\bin\Debug\Restoration.exe
+C:\Users\Vitalik\source\repos\Restoration\Restoration\bin\Debug\Restoration.pdb
+C:\Users\Vitalik\source\repos\Restoration\Restoration\obj\Debug\Restoration.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\Restoration\Restoration\obj\Debug\Restoration.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\Restoration\Restoration\obj\Debug\Restoration.exe
+C:\Users\Vitalik\source\repos\Restoration\Restoration\obj\Debug\Restoration.pdb
